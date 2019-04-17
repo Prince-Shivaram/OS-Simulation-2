@@ -1,0 +1,2 @@
+# OS-Simulation-2
+Write a program in C which will accept5 positive integers as command line arguments. Performs check whether there are 5 arguments or not. If number of arguments are lesser or greater than 5 then it will print a relevant message to the user. If you enter 5 positive integers from command line then the program treat those argument as required CPU bust for P1, P2, P3, P4, andP5 process and calculate average waiting time and average turnaround time. Consider used scheduling algorithm as FCFS and same arrival time for all the processes.
